@@ -41,6 +41,7 @@ void *modifyGlobalVars(void *arg){
 	%orig;
 }
 
+// not needed, I always have this here though
 uint64_t getRealOffset(uint64_t offset){
     return _dyld_get_image_vmaddr_slide(0) + offset;
 }

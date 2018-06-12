@@ -15,7 +15,7 @@ Why open source something like this? Because this is an amazing example of:
 - Hacking a static member
 - Using threads to hack said static member
 
-You can find the `GlobalVars` struct I mentioned in the tutorial below here as well.
+You can find the `GlobalVars` struct I mentioned in the tutorial below in the source folder.
 
 Tutorial: https://iosgods.com/topic/70716-static-members-and-multithreading/
 
